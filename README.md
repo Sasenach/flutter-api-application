@@ -1,16 +1,4 @@
-# conduit_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="center">Flutter mobile app with Java Spring REST API<h1/>
+##Mobile applications for waiters to create orders, instead of writing to a notepad
+<p>Page "Selected table"<p/>
+<img src="https://sun9-77.userapi.com/impg/gkxp6PavR1QYGCx9razVB6qzOV0JlquoKXwJnA/C8BjzogH80Y.jpg?size=263x541&quality=96&sign=62d6c263201b609db003b90be6ab0c5c&type=album" height="50%"/>

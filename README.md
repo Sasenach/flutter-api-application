@@ -3,4 +3,4 @@
 <p>Page "Selected bill"<p/>
 <img src="https://sun9-77.userapi.com/impg/gkxp6PavR1QYGCx9razVB6qzOV0JlquoKXwJnA/C8BjzogH80Y.jpg?size=263x541&quality=96&sign=62d6c263201b609db003b90be6ab0c5c&type=album" height="50%" align="center"/>
  <p>Page "Add and select bill"<p/>
-<img src="![image](https://user-images.githubusercontent.com/79968338/234958828-14441b2b-e1fb-44cf-8466-9ef2bd2071e9.png)" height="50%" align="center"/>
+<img src="[![image](https://user-images.githubusercontent.com/79968338/234958828-14441b2b-e1fb-44cf-8466-9ef2bd2071e9.png)](https://sun9-6.userapi.com/impg/KTkq1eymoE6yzaiHeFW5jKjgnMy9nMPze9NPCA/5p5isv4gG3I.jpg?size=266x546&quality=96&sign=d92eb115242e527618aa55a74900e93f&type=album)" height="50%" align="center"/>
